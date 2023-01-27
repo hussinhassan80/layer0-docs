@@ -41,7 +41,7 @@
     "url-loader": "^4.1.0"
   },
   "devDependencies": {
-    "@layer0/cli": "^4.8.4",
+    "@layer0/cli": "^4.19.7",
     "babel-loader": "^8.1.0",
     "prettier": "^1.19.1",
     "webpack": "^4.46.0"
